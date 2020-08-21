@@ -25,7 +25,7 @@ SECRET_KEY = '4a^2^cgdb(6bhok)a52g+o1dmt)a8i%gk0v$2o3b2e@195^8eu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://photohamrobazar.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
